@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "rVlfg4OrlkQ=",
+  "success": true,
+  "projectFilePath": "/home/lisa/CsLabs/sem-1-lab-02-server-config/sem-1-lab-02-server-config.csproj",
+  "expectedPackageFiles": [
+    "/home/lisa/.nuget/packages/microsoft.aspnetcore.app.ref/10.0.12/microsoft.aspnetcore.app.ref.10.0.12.nupkg.sha512"
+  ],
+  "logs": []
+}
