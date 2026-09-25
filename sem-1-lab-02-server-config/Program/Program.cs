@@ -1,14 +1,11 @@
 ﻿using System;
-
-{
     public class Program
     {
-        const int playersPerGb = 5;
+        const int playersPerGb = 10;
         const int minMemory = 2;
         public static string CheckConfiguration(int players, int memory, bool isPublic, bool hasPassword)
         {
             int status = 0;
-
             if (players <= 0)
             {
                 status = 2;
@@ -77,4 +74,3 @@
             return number;
         }
     }
-}
