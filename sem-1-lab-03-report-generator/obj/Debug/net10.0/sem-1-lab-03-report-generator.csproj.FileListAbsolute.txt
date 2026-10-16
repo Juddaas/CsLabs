@@ -1,0 +1,15 @@
+/home/lisa/CsLabs/sem-1-lab-03-report-generator/bin/Debug/net10.0/sem-1-lab-03-report-generator
+/home/lisa/CsLabs/sem-1-lab-03-report-generator/bin/Debug/net10.0/sem-1-lab-03-report-generator.deps.json
+/home/lisa/CsLabs/sem-1-lab-03-report-generator/bin/Debug/net10.0/sem-1-lab-03-report-generator.runtimeconfig.json
+/home/lisa/CsLabs/sem-1-lab-03-report-generator/bin/Debug/net10.0/sem-1-lab-03-report-generator.dll
+/home/lisa/CsLabs/sem-1-lab-03-report-generator/bin/Debug/net10.0/sem-1-lab-03-report-generator.pdb
+/home/lisa/CsLabs/sem-1-lab-03-report-generator/obj/Debug/net10.0/sem-1-lab-03-report-generator.GeneratedMSBuildEditorConfig.editorconfig
+/home/lisa/CsLabs/sem-1-lab-03-report-generator/obj/Debug/net10.0/sem-1-lab-03-report-generator.AssemblyInfoInputs.cache
+/home/lisa/CsLabs/sem-1-lab-03-report-generator/obj/Debug/net10.0/sem-1-lab-03-report-generator.AssemblyInfo.cs
+/home/lisa/CsLabs/sem-1-lab-03-report-generator/obj/Debug/net10.0/sem-1-lab-03-report-generator.csproj.CoreCompileInputs.cache
+/home/lisa/CsLabs/sem-1-lab-03-report-generator/obj/Debug/net10.0/sem-1-lab-03-report-generator.sourcelink.json
+/home/lisa/CsLabs/sem-1-lab-03-report-generator/obj/Debug/net10.0/sem-1-lab-03-report-generator.dll
+/home/lisa/CsLabs/sem-1-lab-03-report-generator/obj/Debug/net10.0/refint/sem-1-lab-03-report-generator.dll
+/home/lisa/CsLabs/sem-1-lab-03-report-generator/obj/Debug/net10.0/sem-1-lab-03-report-generator.pdb
+/home/lisa/CsLabs/sem-1-lab-03-report-generator/obj/Debug/net10.0/sem-1-lab-03-report-generator.genruntimeconfig.cache
+/home/lisa/CsLabs/sem-1-lab-03-report-generator/obj/Debug/net10.0/ref/sem-1-lab-03-report-generator.dll
