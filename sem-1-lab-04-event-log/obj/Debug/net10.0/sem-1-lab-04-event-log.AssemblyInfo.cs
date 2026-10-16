@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("sem-1-lab-04-event-log")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+c6948378ae43dafc1129424a45468896157e9973")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+ddd47d6ab7a6743c08145d722c74a7b0321ff85d")]
 [assembly: System.Reflection.AssemblyProductAttribute("sem-1-lab-04-event-log")]
 [assembly: System.Reflection.AssemblyTitleAttribute("sem-1-lab-04-event-log")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
